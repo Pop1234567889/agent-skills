@@ -4,7 +4,7 @@ This file provides guidance to AI coding agents (Claude Code, Cursor, Copilot, e
 
 ## Repository Overview
 
-A collection of skills for AI coding agents working with Vercel projects. Skills are packaged instructions and scripts that extend agent capabilities.
+A general-purpose collection of skills for AI coding agents, covering everything from Vercel/web development to cybersecurity, legal, finance, data, and dozens of third-party SaaS integrations. Skills are packaged instructions and scripts that extend agent capabilities.
 
 ## Creating a New Skill
 
