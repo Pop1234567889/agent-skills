@@ -11,7 +11,7 @@
   "dependencies": {
     "@openfeature/server-sdk": "^1.21.0",
     "@spotify-confidence/openfeature-server-provider-local": "^0.14.1",
-    "next": "15.3.4",
+    "next": "15.5.24",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
